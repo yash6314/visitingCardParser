@@ -1,0 +1,43 @@
+# 🔐 Environment variables
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 Virtual environment
+venv/
+env/
+.venv/
+
+# 📦 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🧾 Logs
+*.log
+
+# 🗂️ OS files
+.DS_Store
+Thumbs.db
+
+# 🧑‍💻 IDE files
+.vscode/
+.idea/
+
+# 🧪 pytest cache
+.pytest_cache/
+
+# 📁 Temporary files
+*.tmp
+*.temp
+
+# 📸 Uploaded files (if you store locally)
+uploads/
+
+# 🔑 Secrets
+*.key
+*.pem
